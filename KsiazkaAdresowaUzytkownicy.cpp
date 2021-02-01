@@ -454,7 +454,7 @@ Adresat pojedynczyAdresat (vector <Adresat>& adresaci, int identyfikatorID) {
                 pojedynczyAdresat.idUzytkownika = itr -> idUzytkownika;
                 pojedynczyAdresat.imie = itr -> imie;
                 pojedynczyAdresat.nazwisko = itr -> nazwisko;
-                pojedynczyAdresat.nazwisko = itr -> numerTelefonu;
+                pojedynczyAdresat.numerTelefonu = itr -> numerTelefonu;
                 pojedynczyAdresat.email = itr -> email;
                 pojedynczyAdresat.adres = itr -> adres;
             }
